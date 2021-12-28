@@ -1,2 +1,9 @@
-# hadland-etal-2022
-Repo for the computational code used in Hadland et al. 2022, Nat Comm manuscript.
+# Engineering a niche supporting haematopoietic stem cell development using integrated single cell transcriptomics
+Repository for the code used in all computational analyses for the Hadland et al. 2022 Nature Communications manuscript.
+
+URL TBD
+
+The computational analysis was done in R using primarily Monocle3 and dependency packages.
+The sections of code used to create specific figure panels are designated in the comments of the file.
+
+For questions regarding the code, please contact the corresponding author.
